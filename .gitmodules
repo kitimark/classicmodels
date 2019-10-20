@@ -6,3 +6,7 @@
 	path = classicmodels-client
 	url = https://github.com/mrkwskiti/classicmodels-client
 	branch = master
+[submodule "classicmodels-server"]
+	path = classicmodels-server
+	url = https://github.com/mrkwskiti/classicmodels-server
+	branch = master
