@@ -1,0 +1,4 @@
+[submodule "classicmodels-api"]
+	path = classicmodels-api
+	url = https://github.com/mrkwskiti/classicmodels-api
+	branch = master
